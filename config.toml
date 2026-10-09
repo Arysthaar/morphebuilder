@@ -68,11 +68,11 @@ included-patches = """\
     'Disable analytics' \
     'Disable screenshot detection' \
     'Make ephemeral media permanent' \
-    'View direct messages anonymously' \
+    'View DMs anonymously'\
+    'Unlock employee options' \
     'View live anonymously' \
     'View stories anonymously' \
     'Unlock plus benefits' \
-    'Enable employee options' \
     """
 # excluded-patches = """"""
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram"
