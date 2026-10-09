@@ -65,10 +65,16 @@ arch = "arm64-v8a" # Options 'arm64-v8a', 'armeabi-v7a', 'x86', 'x86_64', or 'un
 patches-version = "dev" # Options 'latest', 'dev', or A specific version tag
 included-patches = """\
     'Theme' \
+    'Disable Analytics' \
+    `Disable Screenshot Detection` \
+    `Make Ephemeral Media Permanent` \
+    `View Direct Messages Anonymously` \
+    `View Live Anonymously` \
+    `View Stories Anonymously` \
+    `Unlock Plus Benefits` \
+    `Enable Employee Options` \
     """
-excluded-patches = """\
-    'Unlock Plus benefits' \
-    """
+excluded-patches = ""
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram"
 uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 # github-dlurl = "https://github.com/krvstek/uni-storage/releases/tag/instagram"
