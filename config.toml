@@ -68,7 +68,7 @@ included-patches = """\
     'Disable analytics' \
     'Disable screenshot detection' \
     'Make ephemeral media permanent' \
-    'View DMs anonymously'\
+    'View DMs anonymously' \
     'Unlock employee options' \
     'View live anonymously' \
     'View stories anonymously' \
