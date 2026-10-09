@@ -66,15 +66,15 @@ patches-version = "dev" # Options 'latest', 'dev', or A specific version tag
 included-patches = """\
     'Theme' \
     'Disable analytics' \
-    `Disable screenshot detection` \
-    `Make ephemeral media permanent` \
-    `View direct messages anonymously` \
-    `View live anonymously` \
-    `View stories anonymously` \
-    `Unlock plus benefits` \
-    `Enable employee options` \
+    'Disable screenshot detection' \
+    'Make ephemeral media permanent' \
+    'View direct messages anonymously' \
+    'View live anonymously' \
+    'View stories anonymously' \
+    'Unlock plus benefits' \
+    'Enable employee options' \
     """
-#excluded-patches = """"""
+# excluded-patches = """"""
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram"
 uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 # github-dlurl = "https://github.com/krvstek/uni-storage/releases/tag/instagram"
