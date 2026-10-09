@@ -74,7 +74,7 @@ included-patches = """\
     `Unlock plus benefits` \
     `Enable employee options` \
     """
-excluded-patches = ""
+#excluded-patches = """"""
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram"
 uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 # github-dlurl = "https://github.com/krvstek/uni-storage/releases/tag/instagram"
