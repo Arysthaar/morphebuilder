@@ -95,7 +95,9 @@ patches-version = ["dev", "dev"] # Options 'latest', 'dev', or A specific versio
 included-patches = """\
     'Open developer options' \
     'Clone app' \
+    'View DM photos and videos anonymously' \
     """
+excluded-patches = """"""
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram"
 uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 # github-dlurl = "https://github.com/krvstek/uni-storage/releases/tag/instagram"
