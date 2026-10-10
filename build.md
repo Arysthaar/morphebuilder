@@ -2,6 +2,7 @@
 📱 » **Gboard-Jason** (arm64-v8a): `18.0.3.954559732-release-arm64-v8a`    
 📱 » **Google-Photos-Akash** (arm64-v8a): `7.96.0.996044120`    
 📱 » **Instagram-Piko** (arm64-v8a): `447.0.0.55.81`    
+📱 » **Instagram-SysAdminDoc-APK** (arm64-v8a): `450.0.0.50.77`    
 📱 » **YouTube-Morphe** (arm64-v8a): `21.40.161`    
 
 <br>
@@ -28,6 +29,7 @@ Patches and CLI Sources :
  ⚙️ » Patches: `jasonwu1994/patches-3.12.0.mpp` ([Changelog](https://github.com/jasonwu1994/Gboard-patches/releases/tag/v3.12.0))
  ⚙️ » Patches: `Akash-Sriram/patches-1.14.3.mpp` ([Changelog](https://github.com/Akash-Sriram/morphe-google-photos/releases/tag/v1.14.3))
  ⚙️ » Patches: `crimera/patches-3.10.0.mpp` ([Changelog](https://github.com/crimera/piko/releases/tag/v3.10.0))
+ ⚙️ » Patches: `SysAdminDoc/patches-0.0.8.mpp` ([Changelog](https://github.com/SysAdminDoc/HushGram/releases/tag/v0.0.8))
  ⚙️ » Patches: `MorpheApp/patches-1.47.0-dev.20.mpp` ([Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.47.0-dev.20))
   
 > ⚙️ » CLI: `MorpheApp/morphe-desktop-1.18.1-all.jar`
