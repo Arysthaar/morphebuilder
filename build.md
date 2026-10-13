@@ -30,7 +30,7 @@ Patches and CLI Sources :
  ⚙️ » Patches: `Akash-Sriram/patches-1.14.4.mpp` ([Changelog](https://github.com/Akash-Sriram/morphe-google-photos/releases/tag/v1.14.4))
  ⚙️ » Patches: `crimera/patches-3.10.0.mpp` ([Changelog](https://github.com/crimera/piko/releases/tag/v3.10.0))
  ⚙️ » Patches: `SysAdminDoc/patches-0.0.9.mpp` ([Changelog](https://github.com/SysAdminDoc/HushGram/releases/tag/v0.0.9))
- ⚙️ » Patches: `MorpheApp/patches-1.48.0-dev.4.mpp` ([Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.48.0-dev.4))
+ ⚙️ » Patches: `MorpheApp/patches-1.48.0-dev.6.mpp` ([Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.48.0-dev.6))
   
 > ⚙️ » CLI: `MorpheApp/morphe-desktop-1.18.1-all.jar`
   
