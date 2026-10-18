@@ -25,12 +25,12 @@
   
 Patches and CLI Sources :
   
-> ⚙️ » Patches: `SatanMerde/patches-1.52.0.mpp` ([Changelog](https://github.com/SatanMerde/D-moniakPatches/releases/tag/v1.52.0))
+> ⚙️ » Patches: `SatanMerde/patches-1.52.1.mpp` ([Changelog](https://github.com/SatanMerde/D-moniakPatches/releases/tag/v1.52.1))
  ⚙️ » Patches: `jasonwu1994/patches-3.13.0.mpp` ([Changelog](https://github.com/jasonwu1994/Gboard-patches/releases/tag/v3.13.0))
  ⚙️ » Patches: `Akash-Sriram/patches-1.15.4.mpp` ([Changelog](https://github.com/Akash-Sriram/morphe-google-photos/releases/tag/v1.15.4))
  ⚙️ » Patches: `crimera/patches-3.10.0.mpp` ([Changelog](https://github.com/crimera/piko/releases/tag/v3.10.0))
  ⚙️ » Patches: `SysAdminDoc/patches-0.0.12.mpp` ([Changelog](https://github.com/SysAdminDoc/HushGram/releases/tag/v0.0.12))
- ⚙️ » Patches: `MorpheApp/patches-1.48.0-dev.10.mpp` ([Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.48.0-dev.10))
+ ⚙️ » Patches: `MorpheApp/patches-1.48.0-dev.12.mpp` ([Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.48.0-dev.12))
   
 > ⚙️ » CLI: `MorpheApp/morphe-desktop-1.18.1-all.jar`
   
