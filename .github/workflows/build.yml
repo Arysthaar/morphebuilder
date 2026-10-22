@@ -81,7 +81,7 @@ jobs:
             gh release edit "$TAG" --title "Morphe R${{ steps.next_ver_code.outputs.NEXT_VER_CODE }}" --notes "$BODY"
             gh release upload "$TAG" ./build/* --clobber
           else
-            gh release create "$TAG" ./build/* --title "Morphe x TanJid R${{ steps.next_ver_code.outputs.NEXT_VER_CODE }}" --notes "$BODY"
+            gh release create "$TAG" ./build/* --title "Morphe R${{ steps.next_ver_code.outputs.NEXT_VER_CODE }}" --notes "$BODY"
           fi
 
       - name: Update modules changelog and update json
