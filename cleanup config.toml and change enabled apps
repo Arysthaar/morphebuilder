@@ -1,10 +1,8 @@
 enable-module-update = true # set this to false if you do not want to receive updates for the module
-parallel-jobs = 4
+parallel-jobs = 1
 remove-rv-integrations-checks = false # Automatically patch shared integration checks
 # patcher-args = "--continue-on-error"
 
-# add 'enabled = false' for not patching a specific app or remove it from the config
-# see https://github.com/dj-tanjid/Morphe-DeVanced-Builder/blob/teejay/CONFIG.md for more detailed explanations
 
 [YouTube-Morphe]
 enabled = true
@@ -16,17 +14,14 @@ build-mode = "apk" # Options 'apk', 'module', or 'both'
 arch = "arm64-v8a" # Options 'arm64-v8a', 'armeabi-v7a', 'x86', 'x86_64', or 'universal'
 # Stable Support #
 # version = "auto" # 'auto', 'experimental', 'latest' or a version number
-# Experimental Support #
-# version = "21.28.207" # Version Supporting Miniplayer Type
 version = "experimental"
-# version = "21.36.45-SECONDARY"
+patches-version = "dev" # Options 'latest', 'dev', or A specific version tag
 dpi = "nodpi" # Options '120-640dpi', or 'nodpi'
 excluded-patches = """\
     'Custom branding name for YouTube' \
     'Custom branding icon for YouTube' \
     'Custom branding' \
     """
-patches-version = "dev" # Options 'latest', 'dev', or A specific version tag
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 github-dlurl = "https://github.com/dj-tanjid/AppRepo/releases/tag/com.google.android.youtube"
@@ -41,7 +36,6 @@ rv-brand = "Akash"
 arch = "arm64-v8a" # Options 'arm64-v8a', 'armeabi-v7a', 'x86', 'x86_64', or 'universal'
 version = "latest"
 # version = "auto" # 'auto', 'experimental', 'latest' or a version number
-# version = "7.89.0.968035987"
 build-mode = "both" # Options 'apk', 'module', or 'both'
 included-patches = """\
     'Spoof features' \
@@ -60,7 +54,6 @@ rv-brand = "Piko"
 build-mode = "apk" # Options 'apk', 'module', or 'both'
 # version = "latest"
 version = "auto" # 'auto', 'experimental', 'latest' or a version number
-# version = "439.0.0.37.89"
 arch = "arm64-v8a" # Options 'arm64-v8a', 'armeabi-v7a', 'x86', 'x86_64', or 'universal'
 patches-version = "dev" # Options 'latest', 'dev', or A specific version tag
 included-patches = """\
@@ -81,7 +74,7 @@ uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 github-dlurl = "https://github.com/dj-tanjid/AppRepo/releases/tag/com.instagram.android"
 
 [Instagram-SysAdminDoc-APK]
-enabled = true
+enabled = false
 app-name = "Instagram"
 patches-source = ["github:SysAdminDoc/HushGram", "github:MorpheApp/morphe-patches"]
 cli-source = "github:MorpheApp/morphe-desktop"
@@ -142,24 +135,21 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/deepl-se/deepl-translate/"
 uptodown-dlurl = "https://deepl.en.uptodown.com/android"
 
 [YT-Music-Morphe]
-enabled = false
+enabled = true
 app-name = "YT Music"
 patches-source = "github:MorpheApp/morphe-patches"
 cli-source = "github:MorpheApp/morphe-desktop"
 rv-brand = "Morphe"
 build-mode = "both" # Options 'apk', 'module', or 'both'
 arch = "arm64-v8a" # Options 'arm64-v8a', 'armeabi-v7a', 'x86', 'x86_64', or 'universal'
-# Stable Support #
 # version = "auto" # 'auto', 'experimental', 'latest' or a version number
-# Experimental Support #
 version = "experimental"
-#version = "9.34.52"
+patches-version = "dev" # Options 'latest', 'dev', or A specific version tag
 excluded-patches = """\
     'Custom branding name for YouTube Music' \
     'Custom branding icon for YouTube Music' \
     'Custom branding' \
     """
-patches-version = "dev" # Options 'latest', 'dev', or A specific version tag
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
