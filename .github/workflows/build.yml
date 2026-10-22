@@ -78,7 +78,7 @@ jobs:
         run: |
           ls -lh ./build/*
           if gh release view "$TAG" >/dev/null 2>&1; then
-            gh release edit "$TAG" --title "Morphe x TanJid R${{ steps.next_ver_code.outputs.NEXT_VER_CODE }}" --notes "$BODY"
+            gh release edit "$TAG" --title "Morphe R${{ steps.next_ver_code.outputs.NEXT_VER_CODE }}" --notes "$BODY"
             gh release upload "$TAG" ./build/* --clobber
           else
             gh release create "$TAG" ./build/* --title "Morphe x TanJid R${{ steps.next_ver_code.outputs.NEXT_VER_CODE }}" --notes "$BODY"
