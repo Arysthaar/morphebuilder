@@ -4,18 +4,13 @@
 
 <p align="center">
   <b>Automated, high-performance CI/CD pipeline for building root Magisk/KernelSU modules and non-root APKs.</b><br>
-  Powered by <a href="https://github.com/MorpheApp">Morphe</a>, <a href="https://github.com/RookieEnough/De-Vanced">De-Vanced</a>, <a href="https://github.com/crimera/piko">Piko</a>, and many more.
+  Powered by <a href="https://github.com/MorpheApp">Morphe</a>, <a href="https://github.com/RookieEnough/De-Vanced">De-Vanced</a>, <a href="https://github.com/crimera/piko">Piko</a>, and many more. Fork of <a href="https://github.com/dj-tanjid/Brand-New-Morphe-Builder">Dj-Tanjid</a>.
 </p>
-
-[![Build Workflow](https://img.shields.io/github/actions/workflow/status/dj-tanjid/Morphe-DeVanced-Builder/build.yml?label=Build%20Status&logo=githubactions&logoColor=white)](../../actions/workflows/build.yml)
-[![GitHub License](https://img.shields.io/github/license/dj-tanjid/Morphe-DeVanced-Builder?logo=github&label=License&color=blue)](https://github.com/dj-tanjid/Morphe-DeVanced-Builder/blob/main/LICENSE)
-[![Latest Release](https://img.shields.io/github/v/release/dj-tanjid/Morphe-DeVanced-Builder?label=Latest%20Release&logo=android&color=success)](../../releases/latest)
-[![GitHub Downloads](https://img.shields.io/github/downloads/dj-tanjid/Morphe-DeVanced-Builder/total?logo=github&label=Downloads&color=orange)](https://github.com/dj-tanjid/Morphe-DeVanced-Builder/releases)
 
 </div>
 
 > [!CAUTION]
-> **Security Notice:** Avoid downloading modified APKs or Magisk modules from untrusted third-party websites or Telegram channels. They may contain malicious code and impersonate official projects. Always build your own or download directly from trusted open-source repositories like this one.
+> **Security Notice:** Avoid downloading modified APKs or Magisk modules from untrusted third-party websites or Telegram channels. They may contain malicious code and impersonate official projects. Always build your own or download directly from trusted open-source repositories.
 
 ---
 
