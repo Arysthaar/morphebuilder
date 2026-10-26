@@ -11,9 +11,9 @@ Patches and CLI Sources :
   
 > ⚙️ » Patches: `SatanMerde/patches-1.52.20.mpp` ([Changelog](https://github.com/SatanMerde/D-moniakPatches/releases/tag/v1.52.20))
  ⚙️ » Patches: `jasonwu1994/patches-3.13.0.mpp` ([Changelog](https://github.com/jasonwu1994/Gboard-patches/releases/tag/v3.13.0))
- ⚙️ » Patches: `Akash-Sriram/patches-1.16.0.mpp` ([Changelog](https://github.com/Akash-Sriram/morphe-google-photos/releases/tag/v1.16.0))
+ ⚙️ » Patches: `Akash-Sriram/patches-1.16.1.mpp` ([Changelog](https://github.com/Akash-Sriram/morphe-google-photos/releases/tag/v1.16.1))
  ⚙️ » Patches: `crimera/patches-3.11.0-dev.3.mpp` ([Changelog](https://github.com/crimera/piko/releases/tag/v3.11.0-dev.3))
- ⚙️ » Patches: `MorpheApp/patches-1.49.0-dev.6.mpp` ([Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.49.0-dev.6))
+ ⚙️ » Patches: `MorpheApp/patches-1.49.0-dev.7.mpp` ([Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.49.0-dev.7))
   
 > ⚙️ » CLI: `MorpheApp/morphe-desktop-1.19.1-all.jar`
   
