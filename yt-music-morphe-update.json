@@ -1,6 +1,6 @@
 {
-  "version": "v9.42.52 (Patch v1.49.0-dev.7)",
-  "versionCode": 22,
-  "zipUrl": "https://github.com/Arysthaar/morphebuilder/releases/download/22/yt-music-morphe-module-v9.42.52-arm64-v8a.zip",
+  "version": "v9.43.51 (Patch v1.49.0-dev.9)",
+  "versionCode": 23,
+  "zipUrl": "https://github.com/Arysthaar/morphebuilder/releases/download/23/yt-music-morphe-module-v9.43.51-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/Arysthaar/morphebuilder/update/build.md"
 }
