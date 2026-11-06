@@ -13,7 +13,7 @@ Patches and CLI Sources :
  ⚙️ » Patches: `jasonwu1994/patches-4.2.0.mpp` ([Changelog](https://github.com/jasonwu1994/Gboard-patches/releases/tag/v4.2.0))
  ⚙️ » Patches: `Akash-Sriram/patches-1.17.10.mpp` ([Changelog](https://github.com/Akash-Sriram/morphe-google-photos/releases/tag/v1.17.10))
  ⚙️ » Patches: `crimera/patches-3.11.0-dev.4.mpp` ([Changelog](https://github.com/crimera/piko/releases/tag/v3.11.0-dev.4))
- ⚙️ » Patches: `MorpheApp/patches-2.1.0-dev.11.mpp` ([Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v2.1.0-dev.11))
+ ⚙️ » Patches: `MorpheApp/patches-2.1.0.mpp` ([Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v2.1.0))
   
-> ⚙️ » CLI: `MorpheApp/morphe-desktop-2.0.0-all.jar`
+> ⚙️ » CLI: `MorpheApp/morphe-desktop-2.1.1-all.jar`
   
