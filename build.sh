@@ -33,7 +33,7 @@ main_config_t=$(toml_get_table_main)
 COMPRESSION_LEVEL=$(toml_get "$main_config_t" compression-level) || COMPRESSION_LEVEL="9"
 
 # Strictly enforce sequential execution to ensure live-streaming output in GitHub Actions
-PARALLEL_JOBS=1 
+# PARALLEL_JOBS=1 
 
 REMOVE_RV_INTEGRATIONS_CHECKS=$(toml_get "$main_config_t" remove-rv-integrations-checks) || REMOVE_RV_INTEGRATIONS_CHECKS="true"
 DEF_PATCHES_VER=$(toml_get "$main_config_t" patches-version) || DEF_PATCHES_VER="latest"
