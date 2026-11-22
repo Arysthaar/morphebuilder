@@ -471,7 +471,7 @@ github-dlurl = "https://github.com/dj-tanjid/AppRepo/releases/tag/com.twitter.an
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
 
 [Instagram-Piko]
-enabled = false
+enabled = true
 app-name = "Instagram"
 patches-source = "github:crimera/piko"
 cli-source = "github:MorpheApp/morphe-desktop"
@@ -484,6 +484,14 @@ arch = "arm64-v8a" # Options 'arm64-v8a', 'armeabi-v7a', 'x86', 'x86_64', or 'un
 patches-version = "dev" # Options 'latest', 'dev', or A specific version tag
 included-patches = """\
     'Theme' \
+    'Disable analytics' \
+    'Disable screenshot detection' \
+    'Make ephemeral media permanent' \
+    'View DMs anonymously' \
+    'Unlock employee options' \
+    'View live anonymously' \
+    'View stories anonymously' \
+    'Unlock plus benefits' \
     """
 excluded-patches = """\
     'Unlock Plus benefits' \
@@ -583,7 +591,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/cloudflare/1-1-1-1-faster-safer
 uptodown-dlurl = "https://1-1-1-1.en.uptodown.com/android"
 
 [Proton-VPN-HXReborn]
-enabled = true
+enabled = false
 app-name = "Proton VPN"
 patches-source = "github:hxreborn/morphe-patches"
 cli-source = "github:MorpheApp/morphe-desktop"
@@ -623,7 +631,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/innovative-connecting/turbo-vpn
 uptodown-dlurl = "https://turbo-vpn.en.uptodown.com/android"
 
 [TeraBox-HXReborn]
-enabled = true
+enabled = false
 app-name = "TeraBox"
 patches-source = "github:hxreborn/morphe-patches"
 cli-source = "github:MorpheApp/morphe-desktop"
@@ -690,7 +698,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/appground-io/bluetooth-keyboard
 uptodown-dlurl = "https://bluetooth-keyboard-and-mouse.en.uptodown.com/android"
 
 [PokeRaid-DanielTheManiel]
-enabled = true
+enabled = false
 app-name = "PokeRaid - for Pokémon GO Raid"
 patches-source = "github:Dan1elTheMan1el/Morphe-Patches"
 patches-version = "dev"
@@ -778,7 +786,7 @@ github-dlurl = "https://github.com/dj-tanjid/AppRepo/releases/tag/com.anthropic.
 uptodown-dlurl = "https://claude.en.uptodown.com/android"
 
 [DeepL-SatanMerde]
-enabled = false
+enabled = true
 app-name = "DeepL"
 patches-source = "github:SatanMerde/D-moniakPatches"
 cli-source = "github:MorpheApp/morphe-desktop"
@@ -798,7 +806,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/deepl-se/deepl-translate/"
 uptodown-dlurl = "https://deepl.en.uptodown.com/android"
 
 [Google-Maps-BearInMindCat-APK]
-enabled = false
+enabled = true
 app-name = "Google Maps"
 patches-source = "github:bearinmindcat/morphe-patches"
 cli-source = "github:MorpheApp/morphe-desktop"
@@ -816,7 +824,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/maps/"
 uptodown-dlurl = "https://google-maps.en.uptodown.com/android"
 
 [Google-Maps-BearInMindCat-Root]
-enabled = false
+enabled = true
 app-name = "Google Maps"
 patches-source = "github:bearinmindcat/morphe-patches"
 cli-source = "github:MorpheApp/morphe-desktop"
@@ -839,7 +847,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/maps/"
 uptodown-dlurl = "https://google-maps.en.uptodown.com/android"
 
 [Waze-BearInMindCat-APK]
-enabled = false
+enabled = true
 app-name = "Waze"
 patches-source = "github:bearinmindcat/morphe-patches"
 cli-source = "github:MorpheApp/morphe-desktop"
@@ -892,7 +900,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/waze/"
 uptodown-dlurl = "https://waze.en.uptodown.com/android"
 
 [Discord-Venus]
-enabled = false
+enabled = true
 app-name = "Discord"
 pkg-name = "com.discord"
 patches-source = "github:VenusIsJaded/Venus-Patches"
