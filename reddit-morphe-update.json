@@ -1,6 +1,6 @@
 {
-  "version": "v2026.47.0 (Patch v2.4.0-dev.8)",
-  "versionCode": 1,
-  "zipUrl": "https://github.com/Arysthaar/morphebuilder/releases/download/1/reddit-morphe-module-v2026.47.0-all.zip",
+  "version": "v2026.47.0 (Patch v2.4.0-dev.9)",
+  "versionCode": 2,
+  "zipUrl": "https://github.com/Arysthaar/morphebuilder/releases/download/2/reddit-morphe-module-v2026.47.0-all.zip",
   "changelog": "https://raw.githubusercontent.com/Arysthaar/morphebuilder/update/build.md"
 }
