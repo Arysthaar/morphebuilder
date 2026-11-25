@@ -7,8 +7,8 @@
 📱 » **Instagram-Piko** (arm64-v8a): `456.0.0.53.78`    
 📱 » **Reddit-Morphe** (all): `2026.47.0`    
 📱 » **Waze-BearInMindCat-APK** (arm64-v8a): `5.24.5.0`    
-📱 » **YT-Music-Morphe** (arm64-v8a): `9.46.51`    
-📱 » **YouTube-Morphe** (arm64-v8a): `21.46.522`    
+📱 » **YT-Music-Morphe** (arm64-v8a): `9.47.51`    
+📱 » **YouTube-Morphe** (arm64-v8a): `21.47.483-SECONDARY`    
 
 <br>
   
@@ -32,11 +32,11 @@ Patches and CLI Sources :
   
 > ⚙️ » Patches: `SatanMerde/patches-1.73.1.mpp` ([Changelog](https://github.com/SatanMerde/D-moniakPatches/releases/tag/v1.73.1))
  ⚙️ » Patches: `VenusIsJaded/patches-1.21.1.mpp` ([Changelog](https://github.com/VenusIsJaded/Venus-Patches/releases/tag/v1.21.1))
- ⚙️ » Patches: `jasonwu1994/patches-4.5.0-dev.3.mpp` ([Changelog](https://github.com/jasonwu1994/Gboard-patches/releases/tag/v4.5.0-dev.3))
+ ⚙️ » Patches: `jasonwu1994/patches-4.5.0-dev.4.mpp` ([Changelog](https://github.com/jasonwu1994/Gboard-patches/releases/tag/v4.5.0-dev.4))
  ⚙️ » Patches: `bearinmindcat/patches-2.10.0.mpp` ([Changelog](https://github.com/bearinmindcat/morphe-patches/releases/tag/v2.10.0))
  ⚙️ » Patches: `Akash-Sriram/patches-1.18.0.mpp` ([Changelog](https://github.com/Akash-Sriram/morphe-google-photos/releases/tag/v1.18.0))
  ⚙️ » Patches: `crimera/patches-3.12.0-dev.6.mpp` ([Changelog](https://github.com/crimera/piko/releases/tag/v3.12.0-dev.6))
- ⚙️ » Patches: `MorpheApp/patches-2.4.0-dev.9.mpp` ([Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v2.4.0-dev.9))
+ ⚙️ » Patches: `MorpheApp/patches-2.4.0-dev.11.mpp` ([Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v2.4.0-dev.11))
   
 > ⚙️ » CLI: `MorpheApp/morphe-desktop-2.3.0-all.jar`
   
